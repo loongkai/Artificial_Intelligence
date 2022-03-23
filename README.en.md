@@ -1,4 +1,4 @@
-# Artificial_Intelligence
+# loongkai_ai
 
 #### Description
 人工智能-机器学习-深度学习-异常水果检测综合项目
